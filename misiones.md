@@ -2,3 +2,4 @@
 
 1. Localizar a Doomsday
 2. Capturar a Red Skull
+3. Localizar a Loky
